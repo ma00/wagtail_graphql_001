@@ -49,7 +49,7 @@ class Mutations(graphene.ObjectType):
     create_article = CreateArticlePage.Field()
     
 
-#### GRAPHQL mutation: ###à
+#### GRAPHQL mutation: ###
 
 #mutation myFirstMutation {
 #    createArticle(
